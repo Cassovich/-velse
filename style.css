@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(25,15,50);
+    color: white;
+}
+.coloredtext{
+  font-size: 3em;
+}
+ul{
+  list-style: square;
+}
